@@ -1,0 +1,20 @@
+---
+weight: 130
+title: Community
+---
+
+These are the links to official Hyprland-related spaces or profiles:
+
+## Spaces
+
+Discord: [discord.gg/hQ9XvMUjjr](https://discord.gg/hQ9XvMUjjr)  
+Official forum: [forum.hypr.land](https://forum.hypr.land/)  
+Matrix: `#hyprland:matrix.vaxry.net`
+
+## Profiles
+
+Twitter: [x.com/hyprwm](https://x.com/hyprwm)
+
+## Other
+
+Hyprland website: [hypr.land](https://hypr.land/)

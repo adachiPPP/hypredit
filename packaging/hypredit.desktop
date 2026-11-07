@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Hypredit
+Comment=Tamper with Hyprland runtime and config
+Exec=hypredit
+Icon=hypredit
+Type=Application
+Terminal=false
+Categories=System;Settings;
